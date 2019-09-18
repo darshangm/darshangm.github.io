@@ -1,8 +1,6 @@
-function AbsFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
+function change() // no ';' here
+{
+    var elem = document.getElementById("AbstIntman");
+    if (elem.value=="Abstract") elem.value = "Intman Abstrack here";
+    
 }
