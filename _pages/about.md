@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Darshan Gadginmath"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). I work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and AI agents driven by black-boxes.
 
-Previously, I was a Research Assistant with Dr. Pavankumar Tallapragada at the Indian Institute of Science. I got my Bachelor of Engineering degree in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
+Previously, I was a Research Assistant with [Dr. Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/) at the Indian Institute of Science. I got my Bachelor of Engineering degree in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
 
 
 
