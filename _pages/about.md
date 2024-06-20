@@ -17,9 +17,11 @@ redirect_from:
 </script>
 
 
-I am a fourth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). I primarily work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and AI agents driven by black-boxes.
+I am a fourth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). I work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and AI agents driven by black-boxes.
 
-Previously, I was a Research Assistant with Dr. Pavankumar Tallapragada at the Indian Institute of Science. I got my B.E. in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
+Previously, I was a Research Assistant with Dr. Pavankumar Tallapragada at the Indian Institute of Science. I got my Bachelor of Engineering degree in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
