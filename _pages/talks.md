@@ -8,9 +8,9 @@ author_profile: true
 
 Operator theoretic techniques for nonlinear systems
 ======
-1. Intro to Perron-Frobenius and Koopman operator theory ([slides](../files/))
-2. Applications: Generative modeling, Optimal transport, and density control ([slides](../files/))
-3. Open research problems ([slides](../files/))
+1. Intro to Perron-Frobenius and Koopman operator theory ([slides](../files/slides-PFoperator/d1.pptx))
+2. Applications: Generative modeling, Optimal transport, and density control ([slides](../files/slides-PFoperator/d1.pptx))
+3. Open research problems ([slides](../files/slides-PFoperator/d1.pptx))
 
 <!-- {% if site.talkmap_link == true %}
 
