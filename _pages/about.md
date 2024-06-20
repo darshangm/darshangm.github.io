@@ -6,6 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQD2LSC486"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KQD2LSC486');
+</script>
+
 
 I am a fourth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). I primarily work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and AI agents driven by black-boxes.
 
