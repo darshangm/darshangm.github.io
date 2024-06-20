@@ -8,10 +8,13 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+<hr style="width: 100%; height: 2px; background-color: black; border: none;">
 
 Journal articles
 ======
 1. Darshan Gadginmath, , Vishaal Krishnan, and Fabio Pasqualetti. "Data-driven feedback linearization using the Koopman generator." IEEE Transactions on Automatic Control, to appear(2024).
+
+<hr style="width: 100%; height: 2px; background-color: black; border: none;">
 
 Conference proceedings
 ======
@@ -25,6 +28,7 @@ Conference proceedings
 
 5. Darshan Gadginmath, Pavankumar Tallapragada. "Data-guided distributed intersection management for connected and automated vehicles." 2022 American Control Conference (ACC). IEEE, 2022.
 
+<hr style="width: 100%; height: 2px; background-color: black; border: none;">
 
 Pre-prints
 ======
