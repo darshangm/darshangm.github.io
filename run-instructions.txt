@@ -1,0 +1,6 @@
+instructions to edit:
+jekyll serve -l -H localhost
+
+run in browser:
+
+localhost:4000
