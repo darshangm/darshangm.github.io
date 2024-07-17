@@ -32,7 +32,9 @@ Conference proceedings
 
 Pre-prints
 ======
-1. Darshan Gadginmath, Shivanshu Tripathi, and Fabio Pasqualetti. "Fusing Multiple Algorithms for Heterogeneous Online Learning." arXiv preprint arXiv:2312.05432 (2023).
+1. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi, "Feedback Linearization from the lens of data." arXiv preprint arXiv:2308.11229 (2024).
+
+2. Darshan Gadginmath, Shivanshu Tripathi, and Fabio Pasqualetti. "Fusing Multiple Algorithms for Heterogeneous Online Learning." arXiv preprint arXiv:2312.05432 (2023).
 
 
 <!-- {% include base_path %}
