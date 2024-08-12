@@ -20,7 +20,7 @@ Conference proceedings
 ======
 1. Shiqi Zhang, Darshan Gadginmath, and Fabio Pasqualetti. "Predicting AI Agent Behavior through Approximation of the Perron-Frobenius Operator." arXiv preprint arXiv:2406.02723 (2024).
 
-2. Karthik Elamvazhuthi, Darshan Gadginmath, and Fabio Pasqualetti. "Denoising Diffusion-Based Control of Nonlinear Systems." arXiv preprint arXiv:2402.02297 (2024).
+2. Karthik Elamvazhuthi, Darshan Gadginmath, and Fabio Pasqualetti. "Denoising Diffusion-Based Control of Nonlinear Systems." 2024 63rd IEEE Conference on Decision and Control (CDC). IEEE, 2024 (To appear).
 
 3. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi. "Data-Driven Feedback Linearization with Complete Dictionaries." 2023 62nd IEEE Conference on Decision and Control (CDC). IEEE, 2023.
 
