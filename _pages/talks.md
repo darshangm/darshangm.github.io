@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Probabilistic perspective to interpretable AI agents and nonlinear control([slides](../files/usc-cps-seminar/usc-main-pdf.pdf)) 
+Probabilistic perspective to interpretable AI agents and nonlinear control ([slides](../files/usc-cps-seminar/usc-main-pdf.pdf)) 
 ======
 University of Southern California CPS seminar (09/04/2024) 
 
