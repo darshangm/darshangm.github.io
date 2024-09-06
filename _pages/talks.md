@@ -6,6 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+Probabilistic perspective to interpretable AI agents and nonlinear control([slides](../files/usc-cps-seminar/usc-main-pdf.pdf)) 
+======
+University of Southern California CPS seminar (09/04/2024) 
+
+
 Operator theoretic techniques for nonlinear systems
 ======
 1. Intro to Perron-Frobenius and Koopman operator theory ([slides](../files/slides-PFoperator/d1.pptx))
