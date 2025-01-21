@@ -24,7 +24,10 @@ Education
 
 Work experience
 ======
-
+* Fall 2024 (September 2024 - December 2024): Honda Research Institute - US, Research Intern
+  * Using multimodal predictors for motion planning
+  * Active probing human drivers for intention inference
+  
 * Fall 2020-present: Research Assistant
   * Data-driven control of nonlinear systems
   * Operator approximation for identification and behavior prediction of nonlinear systems
