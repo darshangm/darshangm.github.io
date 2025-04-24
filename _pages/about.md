@@ -17,9 +17,9 @@ redirect_from:
 </script>
 
 
-I am a fifth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). I work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and AI agents driven by black-boxes.
+I am a fifth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). Broadly, I work on data-driven analysis and control of nonlinear dynamical systems. I am particularly interested in analyzing the behavior of robotic systems and embodied AI agents driven by black-boxes. I use probabilistic tools in dynamical systems theory and ML for analysis and control of robots and general nonlinear systems.
 
-Previously, I was a Research Assistant with [Dr. Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/) at the Indian Institute of Science. I got my Bachelor of Engineering degree in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
+I recently interned at the Honda Research Institute where I worked on probing human drivers for intention inference. Previously, I was a Research Assistant with [Dr. Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/) at the Indian Institute of Science. I got my Bachelor of Engineering degree in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru, India.
 
 News
 ======
