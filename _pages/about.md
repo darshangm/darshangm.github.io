@@ -23,6 +23,7 @@ I recently interned at the Honda Research Institute where I worked on probing hu
 
 News
 ======
+- New pre-prints on dynamics-aware diffusion models for robotics and control ([Paper 1](https://arxiv.org/pdf/2504.00236), [Paper 2](https://arxiv.org/pdf/2504.09836))
 - (09/16/2024) I'm starting a research internship at the Honda Research Institute.
 - (09/04/2024) I gave a talk on a probabilistic perspective to understanding AI agents' behavior and developing nonlinear controllers at the University of Southern California.  
 
