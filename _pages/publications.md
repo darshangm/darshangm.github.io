@@ -41,9 +41,9 @@ Conference proceedings
 <hr style="width: 100%; height: 2px; background-color: black; border: none;">
 
 
-Pre-prints
+<!-- Pre-prints
 ======
-1. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi, "Feedback Linearization from the lens of data." arXiv preprint arXiv:2308.11229 (2024).
+1. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi, "Feedback Linearization from the lens of data." arXiv preprint arXiv:2308.11229 (2024). -->
 
 
 
