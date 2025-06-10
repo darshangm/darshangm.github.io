@@ -23,7 +23,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 - Improved planning accuracy for robotic systems
 - Theoretical guarantees for stability and performance
 
-[📄 Paper 1](https://arxiv.org/pdf/2504.00236) | [📄 Paper 2](https://arxiv.org/pdf/2504.09836) |  [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886071) | [Code](https://github.com/darshangm/diffusion-nonlinear-control) 
+**Publications:** [📄 Paper 1](https://arxiv.org/pdf/2504.00236) , [📄 Paper 2](https://arxiv.org/pdf/2504.09836) ,  [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886071) , [Code](https://github.com/darshangm/diffusion-nonlinear-control) 
 
 <iframe width="400" height="200" 
         src="https://www.youtube.com/embed/3qQoxwMP33M" 
@@ -47,7 +47,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 ### Intention Inference in Human-Robot Collaborative Environments
 *Honda Research Institute Internship | 2024*
 
-Developed methods to probe and understand emobodied AI agents intentions for safer human-robot collaboration in automotive environments. This project focuses on real-time intention recognition and predictive modeling.
+(Under review at IROS '25) Developed methods to probe and understand emobodied AI agents intentions for safer human-robot collaboration in automotive environments. This project focuses on real-time intention recognition and predictive modeling.
 
 **Impact:**
 - Improved safety in human-robot collaborative scenarios
@@ -69,7 +69,7 @@ Developed methods to probe and understand emobodied AI agents intentions for saf
 
 I combine Koopman operator theory and feedback linearization to develop interpretable data-driven controllers.
 
-[📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
+**Publications:** [📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) , [📄 Paper 2](https://arxiv.org/pdf/2308.11229) , [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
 
 <iframe width="400" height="200"
         src="https://www.youtube.com/embed/zHBFvQXijQk" 
@@ -98,7 +98,7 @@ Developed distributed algorithms for optimal area coverage using teams of ground
 
 Designed control algorithms for safe and efficient intersection management in connected vehicle environments.
 
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) 
+**Publication:** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) 
 
 <iframe width="400" height="200"
         src="https://www.youtube.com/embed/QfIfFiEhi_g" 
@@ -113,7 +113,7 @@ Designed control algorithms for safe and efficient intersection management in co
 
 Investigated online learning strategies with heterogenous sensors with data arriving at different rates
 
-[📄 Paper](https://arxiv.org/pdf/2312.05432)
+**Publications:** [📄 Paper](https://arxiv.org/pdf/2312.05432)
 
 ---
 
@@ -124,8 +124,8 @@ Investigated online learning strategies with heterogenous sensors with data arri
 Developed methods to detect and mitigate attacks on dynamical systems using behavioral analysis tools from dynamical systems. Established a tradeoff between system identification and direct attack detection.
 
 
-[📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993195)
+**Publications:** [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993195)
 
 ---
 
-[📄 CV](https://darshangm.github.io/files/CV) | [🎓 Google Scholar](#)
+[📄 CV](https://darshangm.github.io/files/CV) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FYkk5xUAAAAJ&hl=en)
