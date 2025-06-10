@@ -41,8 +41,7 @@ Developing diffusion models that understand system dynamics for improved robotic
         allowfullscreen>
 </iframe>
 
-
----
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
 
 ### Intention Inference in Human-Robot Collaborative Environments
 *Honda Research Institute Internship | 2024*
@@ -62,8 +61,8 @@ Developing diffusion models that understand system dynamics for improved robotic
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
 </iframe>
-
----
+ 
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
 
 ### Data-Driven Control of Nonlinear Systems
 *Ongoing Research | 2022 - *
@@ -74,7 +73,7 @@ I combine Koopman operator theory and feedback linearization to develop interpre
 - Theoretical results on data-requirement for optimal controller
 
 
-**Publications:** [📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) , [📄 Paper 2](https://arxiv.org/pdf/2308.11229) , [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
+**Publications:** [📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) , [📄 Paper 2](https://arxiv.org/pdf/2308.11229) , [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720)   
 
 <iframe width="400" height="200"
         src="https://www.youtube.com/embed/zHBFvQXijQk" 
@@ -84,9 +83,9 @@ I combine Koopman operator theory and feedback linearization to develop interpre
         allowfullscreen>
 </iframe>
 
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
 
 ### Coverage Control of Ground Robots
-*Multi-Robot Systems*
 
 Developed distributed algorithms for optimal area coverage using teams of ground robots. Used a optitrack mocap system to track ground robots, and used a consensus protocol for oscillators for controller.
 
@@ -98,8 +97,9 @@ Developed distributed algorithms for optimal area coverage using teams of ground
         allowfullscreen>
 </iframe>
 
-### Intersection Management for Connected and Autonomous Vehicles
-*Transportation Systems*
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
+
+### Distributed Intersection Management for Connected and Autonomous Vehicles
 
 Designed a data-guided distributed control algorithm for the safe and efficient intersection management in connected vehicle environments.
 
@@ -113,6 +113,7 @@ Designed a data-guided distributed control algorithm for the safe and efficient 
         allowfullscreen>
 </iframe>
 
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
 
 ### Online Learning with Heterogenous Sensor Array
 
@@ -120,7 +121,7 @@ Investigated online learning strategies with heterogenous sensors with data arri
 
 **Publications:** [📄 Paper](https://arxiv.org/pdf/2312.05432)
 
----
+<hr style="border: none; height: 3px; background-color: #333; margin: 40px 0;">
 
 ## Additional Projects
 
