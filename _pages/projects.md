@@ -68,6 +68,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 *Ongoing Research | 2022 - *
 
 I combine Koopman operator theory and feedback linearization to develop interpretable data-driven controllers.
+
 **Key Contributions:**
 - Interpretable data-driven controller
 - Theoretical results on data-requirement for optimal controller
