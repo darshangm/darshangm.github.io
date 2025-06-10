@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I develop AI and robotics systems that bridge theory and practice, focusing on control systems, human-robot interaction, and dynamics-aware machine learning. Here are some highlights from my research and projects.
+I develop algorithms for control and analysis of robots and embodied AI. My work bridges theory and practice, focusing on data efficiency, computational efficiency, and human-robot interaction. Here are some highlights from my research and projects.
 
 ## Featured Projects
 
