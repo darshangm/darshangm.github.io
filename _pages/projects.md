@@ -25,7 +25,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 
 [📄 Paper 1](https://arxiv.org/pdf/2504.00236) | [📄 Paper 2](https://arxiv.org/pdf/2504.09836) |  [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886071) | [Code](https://github.com/darshangm/diffusion-nonlinear-control) 
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200" 
         src="https://www.youtube.com/embed/3qQoxwMP33M" 
         title="Swarm control with dynamics-aware diffusion" 
         frameborder="0" 
@@ -33,7 +33,7 @@ Developing diffusion models that understand system dynamics for improved robotic
         allowfullscreen>
 </iframe>
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200"
         src="https://www.youtube.com/embed/tbaFg1HthMo" 
         title="Deployment on multiple Husky robots" 
         frameborder="0" 
@@ -54,7 +54,7 @@ Developed methods to probe and understand emobodied AI agents intentions for saf
 - Real-time intention recognition with 44% accuracy
 - Applied to autonomous vehicle decision-making 
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200" 
         src="https://www.youtube.com/embed/GBGBFXxoEmM" 
         title="Active probing based motion planning" 
         frameborder="0" 
@@ -71,7 +71,7 @@ I combine Koopman operator theory and feedback linearization to develop interpre
 
 [📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200"
         src="https://www.youtube.com/embed/zHBFvQXijQk" 
         title="Active probing based motion planning" 
         frameborder="0" 
@@ -85,7 +85,7 @@ I combine Koopman operator theory and feedback linearization to develop interpre
 
 Developed distributed algorithms for optimal area coverage using teams of ground robots.
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200" 
         src="https://www.youtube.com/embed/KYLpdI5PiXY" 
         title="Live demo of coverage control with multiple ground robots" 
         frameborder="0" 
@@ -100,7 +100,7 @@ Designed control algorithms for safe and efficient intersection management in co
 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) 
 
-<iframe width="560" height="315" 
+<iframe width="400" height="200"
         src="https://www.youtube.com/embed/QfIfFiEhi_g" 
         title="Live demo of coverage control with multiple ground robots" 
         frameborder="0" 
