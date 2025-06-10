@@ -27,7 +27,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/3qQoxwMP33M" 
-        title="YouTube video player" 
+        title="Swarm control with dynamics-aware diffusion" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
@@ -35,7 +35,7 @@ Developing diffusion models that understand system dynamics for improved robotic
 
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/tbaFg1HthMo" 
-        title="YouTube video player" 
+        title="Deployment on multiple Husky robots" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
@@ -54,7 +54,13 @@ Developed methods to probe and understand emobodied AI agents intentions for saf
 - Real-time intention recognition with 44% accuracy
 - Applied to autonomous vehicle decision-making 
 
-[🎥 Demo Video]((https://darshangm.github.io/files/videos/active_probing_IROS.mp4/view)) 
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/GBGBFXxoEmM" 
+        title="Active probing based motion planning" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 ---
 
@@ -63,7 +69,15 @@ Developed methods to probe and understand emobodied AI agents intentions for saf
 
 I combine Koopman operator theory and feedback linearization to develop interpretable data-driven controllers.
 
-[📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  [🎥 Demo Video](https://darshangm.github.io/files/videos/tweet-project.mp4/view) 
+[📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/zHBFvQXijQk" 
+        title="Active probing based motion planning" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 
 ### Coverage Control of Ground Robots
@@ -71,14 +85,29 @@ I combine Koopman operator theory and feedback linearization to develop interpre
 
 Developed distributed algorithms for optimal area coverage using teams of ground robots.
 
-[🎥 Live demo](https://darshangm.github.io/files/videos/kura_compress.mp4/view)
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/KYLpdI5PiXY" 
+        title="Live demo of coverage control with multiple ground robots" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 ### Intersection Management for Connected and Autonomous Vehicles
 *Transportation Systems*
 
 Designed control algorithms for safe and efficient intersection management in connected vehicle environments.
 
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) | [🎥 Demo](https://darshangm.github.io/files/videos/ITS_sub_compress.mp4/view)
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) 
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/QfIfFiEhi_g" 
+        title="Live demo of coverage control with multiple ground robots" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
 
 ### Online Learning with Heterogenous Sensor Array
 
@@ -96,15 +125,6 @@ Developed methods to detect and mitigate attacks on dynamical systems using beha
 
 
 [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993195)
-
----
-
-## Technical Skills
-
-**Programming:** Python, MATLAB, C++, ROS, Git
-**ML/AI:** PyTorch, TensorFlow, Diffusion Models, Reinforcement Learning
-**Control Systems:** Nonlinear Control, Optimal Control, Model Predictive Control
-**Tools:** Linux, Docker, Jupyter, LaTeX
 
 ---
 
