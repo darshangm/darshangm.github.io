@@ -14,7 +14,7 @@ I develop AI and robotics systems that bridge theory and practice, focusing on c
 ## Featured Projects
 
 ### Dynamics-Aware Diffusion Models for Planning and Control
-*Current Research | 2024*
+*Current Research | 2023 - *
 
 Developing diffusion models that understand system dynamics for improved robotic planning and control. This work addresses the challenge of incorporating physical constraints and system behavior into generative models for robotics applications.
 
@@ -23,7 +23,24 @@ Developing diffusion models that understand system dynamics for improved robotic
 - Improved planning accuracy for robotic systems
 - Theoretical guarantees for stability and performance
 
-[📄 Paper 1](https://arxiv.org/pdf/2504.00236) | [📄 Paper 2](https://arxiv.org/pdf/2504.09836) | [Code](https://github.com/yourusername/repo-name) | [Motion planning](https://darshangm.github.io/files/videos/unicycle-big-obst/view) | [Deployment](https://darshangm.github.io/files/videos/husky_video_multiple.mp4/view)
+[📄 Paper 1](https://arxiv.org/pdf/2504.00236) | [📄 Paper 2](https://arxiv.org/pdf/2504.09836) |  [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886071) | [Code](https://github.com/darshangm/diffusion-nonlinear-control) 
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/3qQoxwMP33M" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/tbaFg1HthMo" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
 
 ---
 
@@ -42,11 +59,11 @@ Developed methods to probe and understand emobodied AI agents intentions for saf
 ---
 
 ### Data-Driven Control of Nonlinear Systems
-*Ongoing Research*
+*Ongoing Research | 2022 - *
 
 I combine Koopman operator theory and feedback linearization to develop interpretable data-driven controllers.
 
-[📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) | [🎥 Demo Video](https://darshangm.github.io/files/videos/tweet-project.mp4/view) 
+[📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) | [📄 Paper 2](https://arxiv.org/pdf/2308.11229) | [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  [🎥 Demo Video](https://darshangm.github.io/files/videos/tweet-project.mp4/view) 
 
 
 ### Coverage Control of Ground Robots
