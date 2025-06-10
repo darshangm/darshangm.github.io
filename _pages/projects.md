@@ -19,8 +19,8 @@ I develop algorithms for control and analysis of robots and embodied AI. My work
 Developing diffusion models that understand system dynamics for improved robotic planning and control. This work addresses the challenge of incorporating physical constraints and system behavior into generative models for robotics applications.
 
 **Key Contributions:**
-- Novel integration of dynamical systems theory with diffusion models
-- Improved planning accuracy for robotic systems
+- Improved planning accuracy for robotic systems, requires less post processing of generated trajectories
+- Easily incorporate safety constraints
 - Theoretical guarantees for stability and performance
 
 **Publications:** [📄 Paper 1](https://arxiv.org/pdf/2504.00236) , [📄 Paper 2](https://arxiv.org/pdf/2504.09836) ,  [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886071) , [Code](https://github.com/darshangm/diffusion-nonlinear-control) 
@@ -49,9 +49,10 @@ Developing diffusion models that understand system dynamics for improved robotic
 
 (Under review at IROS '25) Developed methods to probe and understand emobodied AI agents intentions for safer human-robot collaboration in automotive environments. This project focuses on real-time intention recognition and predictive modeling.
 
-**Impact:**
-- Improved safety in human-robot collaborative scenarios
-- Real-time intention recognition with 44% accuracy
+**Key Contributions:**
+- Improved safety in human-robot collaborative scenarios 
+- 44% smoother trajectories
+- Real-time intention recognition 
 - Applied to autonomous vehicle decision-making 
 
 <iframe width="400" height="200" 
@@ -68,6 +69,10 @@ Developing diffusion models that understand system dynamics for improved robotic
 *Ongoing Research | 2022 - *
 
 I combine Koopman operator theory and feedback linearization to develop interpretable data-driven controllers.
+**Key Contributions:**
+- Interpretable data-driven controller
+- Theoretical results on data-requirement for optimal controller
+
 
 **Publications:** [📄 Paper 1](https://ieeexplore.ieee.org/abstract/document/10565947) , [📄 Paper 2](https://arxiv.org/pdf/2308.11229) , [📄 Paper 3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383720) |  
 
@@ -83,7 +88,7 @@ I combine Koopman operator theory and feedback linearization to develop interpre
 ### Coverage Control of Ground Robots
 *Multi-Robot Systems*
 
-Developed distributed algorithms for optimal area coverage using teams of ground robots.
+Developed distributed algorithms for optimal area coverage using teams of ground robots. Used a optitrack mocap system to track ground robots, and used a consensus protocol for oscillators for controller.
 
 <iframe width="400" height="200" 
         src="https://www.youtube.com/embed/KYLpdI5PiXY" 
@@ -96,7 +101,7 @@ Developed distributed algorithms for optimal area coverage using teams of ground
 ### Intersection Management for Connected and Autonomous Vehicles
 *Transportation Systems*
 
-Designed control algorithms for safe and efficient intersection management in connected vehicle environments.
+Designed a data-guided distributed control algorithm for the safe and efficient intersection management in connected vehicle environments.
 
 **Publication:** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867733) 
 
