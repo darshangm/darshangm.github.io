@@ -14,7 +14,7 @@ I develop AI and robotics systems that bridge theory and practice, focusing on c
 ## Featured Projects
 
 ### Dynamics-Aware Diffusion Models for Planning and Control
-*Current Research | 2023 - *
+*Current Research | 2023 -*
 
 Developing diffusion models that understand system dynamics for improved robotic planning and control. This work addresses the challenge of incorporating physical constraints and system behavior into generative models for robotics applications.
 
