@@ -135,4 +135,4 @@ Developed methods to detect and mitigate attacks on dynamical systems using beha
 
 ---
 
-[📄 CV](https://darshangm.github.io/files/CV) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FYkk5xUAAAAJ&hl=en)
+[📄 CV](https://darshangm.github.io/files/cv.pdf) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FYkk5xUAAAAJ&hl=en)
