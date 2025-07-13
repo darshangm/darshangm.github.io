@@ -92,11 +92,11 @@ Code is available [here](https://www.github.com/darshangm/)
 ## Citation
 
 ```bibtex
-@inproceedings{gadginmath2024active,
+@inproceedings{gadginmath2025activebehaviorinference,
   title={Active Probing with Multimodal Predictions for Motion Planning},
   author={Gadginmath, Darshan and Nawaz, Farhad and Sung, Minjun and Tariq, Faizan M and Bae, Sangjae and Isele, David and Pasqualetti, Fabio and D'sa, Jovin},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2024}
+  year={2025}
 }
 ```
 
