@@ -25,7 +25,7 @@ author_profile: false
   </div>
   
   <div class="conference">
-    <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024</strong>
+    <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</strong>
   </div>
 </div>
 
