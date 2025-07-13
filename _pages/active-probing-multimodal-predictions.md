@@ -9,7 +9,7 @@ author_profile: false
   <h1 class="paper-title">Active Probing with Multimodal Predictions for Motion Planning</h1>
   
   <div class="authors">
-    <span class="author"><strong>Darshan Gadginmath</strong><sup>1,2</sup></span>
+    <span class="author">Darshan Gadginmath<sup>1,2</sup></span>
     <span class="author">Farhad Nawaz<sup>1</sup></span>
     <span class="author">Minjun Sung<sup>1</sup></span>
     <span class="author">Faizan M Tariq<sup>1</sup></span>
@@ -30,10 +30,9 @@ author_profile: false
 </div>
 
 <div class="paper-links">
-  <a href="https://darshangm.github.io/papers/active-probing-multimodal-predictions/" class="btn btn--primary">Project Page</a>
-  <a href="#" class="btn btn--info">Paper (PDF)</a>
-  <a href="#" class="btn btn--success">Code</a>
-  <a href="#videos" class="btn btn--warning">Videos</a>
+  <a href="https://www.arxiv.org/darshangm" class="btn btn--info">Paper (arxiv)</a>
+  <a href="https://www.github.com/darshangm" class="btn btn--success">Code</a>
+  <a href="https://www.youtube.com/watch?v=GBGBFXxoEmM" class="btn btn--warning">Video</a>
 </div>
 
 ## Abstract
