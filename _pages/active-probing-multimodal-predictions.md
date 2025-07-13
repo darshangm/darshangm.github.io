@@ -54,7 +54,7 @@ To reduce prediction ambiguity, we incorporate an active probing mechanism that 
 ## Method Overview
 
 <div class="method-figure">
-  <img src="/images/highway_fig_pdf.pdf" alt="Method Overview" style="width: 100%; max-width: 800px;">
+  <img src="/images/highway_fig.png" alt="Method Overview" style="width: 100%; max-width: 800px;">
   <p class="caption"><strong>Figure 1:</strong> Illustrative figure of a merging scenario with uncertain multimodal predictions. The red vehicle represents the ego agent with its intended trajectory given by the pink dashed line. The predictor provides multimodal predictions and assigns likelihoods to each mode, with colored ellipsoids representing uncertainty extent.</p>
 </div>
 
