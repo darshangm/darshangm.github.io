@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Active Probing with Multimodal Predictions for Motion Planning"
+title: " "
 permalink: /papers/active-probing-multimodal-predictions/
 author_profile: false
 ---
