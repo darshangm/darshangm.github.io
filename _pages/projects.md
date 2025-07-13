@@ -46,7 +46,9 @@ Developing diffusion models that understand system dynamics for improved robotic
 ### Intention Inference in Human-Robot Collaborative Environments
 *Honda Research Institute Internship | 2024*
 
-(Under review at IROS '25) Developed methods to probe and understand emobodied AI agents intentions for safer human-robot collaboration in automotive environments. This project focuses on real-time intention recognition and predictive modeling.
+[📄 Project webpage](https://darshangm.github.io/papers/active-probing-multimodal-predictions)
+
+(To appear at IROS '25) Developed methods to probe and understand emobodied AI agents intentions for safer human-robot collaboration in automotive environments. This project focuses on real-time intention recognition and predictive modeling.
 
 **Key Contributions:**
 - Improved safety in human-robot collaborative scenarios 
