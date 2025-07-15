@@ -10,6 +10,9 @@
  *
 */
 
+// Import Fira Sans font
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -39,3 +42,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Apply Fira Sans globally
+html, body {
+  font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+.masthead, .page__content, .sidebar, .archive, .author__bio {
+  font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
