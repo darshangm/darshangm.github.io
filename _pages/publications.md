@@ -12,9 +12,11 @@ author_profile: true
 
 Journal articles
 ======
+4. Minjun Sung, Darshan Gadginmath, Farhad Nawaz, David Isele, Jovin D'sa, Naira Hovakimyan, and Sangjae Bae “Neural-Network Guided Interactive Motion Planning for Autonomous Driving”. In: IEEE Transactions on Intelligent Vehicles (under review) (2025).
+
 3. Karthik Elamvazhuthi, Darshan Gadginmath, and Fabio Pasqualetti. "Score Matching Diffusion Based Feedback Control and Planning of Nonlinear Systems." IEEE Transactions on Automatic Control, 2025 (under review).
 
-2. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi. "Feedback Linearization through the Lens of Data" IEEE Transactions on Automatic Control, 2025 (under review).
+2. Claudio De Persis, Darshan Gadginmath, Fabio Pasqualetti, Pietro Tesi. "Feedback Linearization through the Lens of Data" IEEE Transactions on Automatic Control, 2025 (to appear).
 
 1. Darshan Gadginmath, Vishaal Krishnan, and Fabio Pasqualetti. "Data-driven feedback linearization using the Koopman generator." IEEE Transactions on Automatic Control, 2024.
 
@@ -22,7 +24,7 @@ Journal articles
 
 Conference proceedings
 ======
-8. Darshan Gadginmath, Farhad Nawaz, Minjun Sung, Faizan M Tariq, Sangjae Bae, David Isele, Fabio Pasqualetti, Jovin D'sa. "Active Probing with Multimodal Predictions for Motion Planning" 2025 IROS, Hangzhou, China (under review).
+8. Darshan Gadginmath, Farhad Nawaz, Minjun Sung, Faizan M Tariq, Sangjae Bae, David Isele, Fabio Pasqualetti, Jovin D'sa. "Active Probing with Multimodal Predictions for Motion Planning" 2025 IROS, Hangzhou, China (to appear).
 
 7. Darshan Gadginmath, and Fabio Pasqualetti. "Dynamics-aware Diffusion Models for Planning and Control" 2025 64th IEEE Conference on Decision and Control (under review).
 
