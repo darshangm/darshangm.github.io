@@ -5,15 +5,7 @@ permalink: /papers/active-probing-multimodal-predictions/
 author_profile: false
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQD2LSC486"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-KQD2LSC486');
-</script>
 
 <div class="paper-header">
   <h1 class="paper-title">Active Probing with Multimodal Predictions for Motion Planning</h1>
