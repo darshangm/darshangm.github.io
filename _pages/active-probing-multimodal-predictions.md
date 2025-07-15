@@ -189,8 +189,8 @@ body, .paper-header, .paper-title, h1, h2, h3, h4, h5, h6, p, div, span {
 
 /* Modern button styles - made more specific to override theme */
 .paper-links a.btn {
-  margin: 0.5em !important;
-  padding: 0.8em 1.6em !important;
+  margin: 0.8em !important;
+  padding: 0.6em 1.2em !important;
   text-decoration: none !important;
   border-radius: 12px !important;
   font-weight: 500 !important;
@@ -201,7 +201,7 @@ body, .paper-header, .paper-title, h1, h2, h3, h4, h5, h6, p, div, span {
   transition: all 0.3s ease !important;
   position: relative;
   overflow: hidden;
-  font-size: 1rem !important;
+  font-size: 0.9rem !important;
 }
 
 .paper-links a.btn:hover {
@@ -212,47 +212,47 @@ body, .paper-header, .paper-title, h1, h2, h3, h4, h5, h6, p, div, span {
 }
 
 .paper-links a.btn.btn--primary { 
-  border-color: #3498db !important; 
-  color: #3498db !important;
-  background: linear-gradient(145deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05)) !important;
+  border-color: #e74c3c !important; 
+  color: #e74c3c !important;
+  background: linear-gradient(145deg, rgba(231, 76, 60, 0.1), rgba(231, 76, 60, 0.05)) !important;
 }
 .paper-links a.btn.btn--primary:hover { 
-  background: linear-gradient(145deg, rgba(52, 152, 219, 0.2), rgba(52, 152, 219, 0.1)) !important;
-  box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3) !important;
-  color: #3498db !important;
+  background: linear-gradient(145deg, rgba(231, 76, 60, 0.2), rgba(231, 76, 60, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(231, 76, 60, 0.3) !important;
+  color: #e74c3c !important;
 }
 
 .paper-links a.btn.btn--info { 
-  border-color: #17a2b8 !important; 
-  color: #17a2b8 !important;
-  background: linear-gradient(145deg, rgba(23, 162, 184, 0.1), rgba(23, 162, 184, 0.05)) !important;
+  border-color: #9b59b6 !important; 
+  color: #9b59b6 !important;
+  background: linear-gradient(145deg, rgba(155, 89, 182, 0.1), rgba(155, 89, 182, 0.05)) !important;
 }
 .paper-links a.btn.btn--info:hover { 
-  background: linear-gradient(145deg, rgba(23, 162, 184, 0.2), rgba(23, 162, 184, 0.1)) !important;
-  box-shadow: 0 8px 25px rgba(23, 162, 184, 0.3) !important;
-  color: #17a2b8 !important;
+  background: linear-gradient(145deg, rgba(155, 89, 182, 0.2), rgba(155, 89, 182, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(155, 89, 182, 0.3) !important;
+  color: #9b59b6 !important;
 }
 
 .paper-links a.btn.btn--success { 
-  border-color: #28a745 !important; 
-  color: #28a745 !important;
-  background: linear-gradient(145deg, rgba(40, 167, 69, 0.1), rgba(40, 167, 69, 0.05)) !important;
+  border-color: #f39c12 !important; 
+  color: #f39c12 !important;
+  background: linear-gradient(145deg, rgba(243, 156, 18, 0.1), rgba(243, 156, 18, 0.05)) !important;
 }
 .paper-links a.btn.btn--success:hover { 
-  background: linear-gradient(145deg, rgba(40, 167, 69, 0.2), rgba(40, 167, 69, 0.1)) !important;
-  box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3) !important;
-  color: #28a745 !important;
+  background: linear-gradient(145deg, rgba(243, 156, 18, 0.2), rgba(243, 156, 18, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(243, 156, 18, 0.3) !important;
+  color: #f39c12 !important;
 }
 
 .paper-links a.btn.btn--warning { 
-  border-color: #fd7e14 !important; 
-  color: #fd7e14 !important;
-  background: linear-gradient(145deg, rgba(253, 126, 20, 0.1), rgba(253, 126, 20, 0.05)) !important;
+  border-color: #16a085 !important; 
+  color: #16a085 !important;
+  background: linear-gradient(145deg, rgba(22, 160, 133, 0.1), rgba(22, 160, 133, 0.05)) !important;
 }
 .paper-links a.btn.btn--warning:hover { 
-  background: linear-gradient(145deg, rgba(253, 126, 20, 0.2), rgba(253, 126, 20, 0.1)) !important;
-  box-shadow: 0 8px 25px rgba(253, 126, 20, 0.3) !important;
-  color: #fd7e14 !important;
+  background: linear-gradient(145deg, rgba(22, 160, 133, 0.2), rgba(22, 160, 133, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(22, 160, 133, 0.3) !important;
+  color: #16a085 !important;
 }
 
 .method-figure {
