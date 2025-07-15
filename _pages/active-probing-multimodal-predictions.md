@@ -33,9 +33,9 @@ classes: wide
 </div>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/pdf/2507.09822" class="btn btn--info">Paper (arxiv)</a>
-  <a href="https://www.github.com/darshangm" class="btn btn--success">Code</a>
-  <a href="https://www.youtube.com/watch?v=GBGBFXxoEmM" class="btn btn--warning">Video</a>
+  <a href="https://arxiv.org/pdf/2507.09822" class="btn btn--primary">Paper (arxiv)</a>
+  <a href="https://www.github.com/darshangm" class="btn btn--info">Code</a>
+  <a href="https://www.youtube.com/watch?v=GBGBFXxoEmM" class="btn btn--success">Video</a>
 </div>
 
 ## Abstract
@@ -158,10 +158,80 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   display: inline-block;
 }
 
+.paper-links {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.paper-links .btn {
+  margin: 0.5em;
+  padding: 0.8em 1.6em;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 500;
+  display: inline-block;
+  border: 2px solid;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.paper-links .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.btn--primary { 
+  border-color: #3498db; 
+  color: #3498db;
+  background: linear-gradient(145deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
+}
+.btn--primary:hover { 
+  background: linear-gradient(145deg, rgba(52, 152, 219, 0.2), rgba(52, 152, 219, 0.1));
+  box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3);
+}
+
+.btn--info { 
+  border-color: #17a2b8; 
+  color: #17a2b8;
+  background: linear-gradient(145deg, rgba(23, 162, 184, 0.1), rgba(23, 162, 184, 0.05));
+}
+.btn--info:hover { 
+  background: linear-gradient(145deg, rgba(23, 162, 184, 0.2), rgba(23, 162, 184, 0.1));
+  box-shadow: 0 8px 25px rgba(23, 162, 184, 0.3);
+}
+
+.btn--success { 
+  border-color: #28a745; 
+  color: #28a745;
+  background: linear-gradient(145deg, rgba(40, 167, 69, 0.1), rgba(40, 167, 69, 0.05));
+}
+.btn--success:hover { 
+  background: linear-gradient(145deg, rgba(40, 167, 69, 0.2), rgba(40, 167, 69, 0.1));
+  box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3);
+}
+
+.btn--warning { 
+  border-color: #fd7e14; 
+  color: #fd7e14;
+  background: linear-gradient(145deg, rgba(253, 126, 20, 0.1), rgba(253, 126, 20, 0.05));
+}
+.btn--warning:hover { 
+  background: linear-gradient(145deg, rgba(253, 126, 20, 0.2), rgba(253, 126, 20, 0.1));
+  box-shadow: 0 8px 25px rgba(253, 126, 20, 0.3);
+}
+
+
+
 .btn--primary { background-color: #3498db; color: white; }
 .btn--info { background-color: #17a2b8; color: white; }
 .btn--success { background-color: #28a745; color: white; }
 .btn--warning { background-color: #ffc107; color: black; }
+
+
 
 .method-figure {
   text-align: center;
