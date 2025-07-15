@@ -187,71 +187,72 @@ body, .paper-header, .paper-title, h1, h2, h3, h4, h5, h6, p, div, span {
   margin: 2em 0;
 }
 
-/* Modern button styles */
-.paper-links .btn {
-  margin: 0.5em;
-  padding: 0.8em 1.6em;
-  text-decoration: none;
-  border-radius: 12px;
-  font-weight: 500;
-  display: inline-block;
-  border: 2px solid;
-  background: rgba(255, 255, 255, 0.1);
+/* Modern button styles - made more specific to override theme */
+.paper-links a.btn {
+  margin: 0.5em !important;
+  padding: 0.8em 1.6em !important;
+  text-decoration: none !important;
+  border-radius: 12px !important;
+  font-weight: 500 !important;
+  display: inline-block !important;
+  border: 2px solid !important;
+  background: rgba(255, 255, 255, 0.1) !important;
   backdrop-filter: blur(10px);
-  transition: all 0.3s ease;
+  transition: all 0.3s ease !important;
   position: relative;
   overflow: hidden;
+  font-size: 1rem !important;
 }
 
-.paper-links .btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-  background: rgba(255, 255, 255, 0.2);
-  text-decoration: none;
+.paper-links a.btn:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15) !important;
+  background: rgba(255, 255, 255, 0.2) !important;
+  text-decoration: none !important;
 }
 
-.btn--primary { 
-  border-color: #3498db; 
-  color: #3498db;
-  background: linear-gradient(145deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
+.paper-links a.btn.btn--primary { 
+  border-color: #3498db !important; 
+  color: #3498db !important;
+  background: linear-gradient(145deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05)) !important;
 }
-.btn--primary:hover { 
-  background: linear-gradient(145deg, rgba(52, 152, 219, 0.2), rgba(52, 152, 219, 0.1));
-  box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3);
-  color: #3498db;
-}
-
-.btn--info { 
-  border-color: #17a2b8; 
-  color: #17a2b8;
-  background: linear-gradient(145deg, rgba(23, 162, 184, 0.1), rgba(23, 162, 184, 0.05));
-}
-.btn--info:hover { 
-  background: linear-gradient(145deg, rgba(23, 162, 184, 0.2), rgba(23, 162, 184, 0.1));
-  box-shadow: 0 8px 25px rgba(23, 162, 184, 0.3);
-  color: #17a2b8;
+.paper-links a.btn.btn--primary:hover { 
+  background: linear-gradient(145deg, rgba(52, 152, 219, 0.2), rgba(52, 152, 219, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3) !important;
+  color: #3498db !important;
 }
 
-.btn--success { 
-  border-color: #28a745; 
-  color: #28a745;
-  background: linear-gradient(145deg, rgba(40, 167, 69, 0.1), rgba(40, 167, 69, 0.05));
+.paper-links a.btn.btn--info { 
+  border-color: #17a2b8 !important; 
+  color: #17a2b8 !important;
+  background: linear-gradient(145deg, rgba(23, 162, 184, 0.1), rgba(23, 162, 184, 0.05)) !important;
 }
-.btn--success:hover { 
-  background: linear-gradient(145deg, rgba(40, 167, 69, 0.2), rgba(40, 167, 69, 0.1));
-  box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3);
-  color: #28a745;
+.paper-links a.btn.btn--info:hover { 
+  background: linear-gradient(145deg, rgba(23, 162, 184, 0.2), rgba(23, 162, 184, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(23, 162, 184, 0.3) !important;
+  color: #17a2b8 !important;
 }
 
-.btn--warning { 
-  border-color: #fd7e14; 
-  color: #fd7e14;
-  background: linear-gradient(145deg, rgba(253, 126, 20, 0.1), rgba(253, 126, 20, 0.05));
+.paper-links a.btn.btn--success { 
+  border-color: #28a745 !important; 
+  color: #28a745 !important;
+  background: linear-gradient(145deg, rgba(40, 167, 69, 0.1), rgba(40, 167, 69, 0.05)) !important;
 }
-.btn--warning:hover { 
-  background: linear-gradient(145deg, rgba(253, 126, 20, 0.2), rgba(253, 126, 20, 0.1));
-  box-shadow: 0 8px 25px rgba(253, 126, 20, 0.3);
-  color: #fd7e14;
+.paper-links a.btn.btn--success:hover { 
+  background: linear-gradient(145deg, rgba(40, 167, 69, 0.2), rgba(40, 167, 69, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3) !important;
+  color: #28a745 !important;
+}
+
+.paper-links a.btn.btn--warning { 
+  border-color: #fd7e14 !important; 
+  color: #fd7e14 !important;
+  background: linear-gradient(145deg, rgba(253, 126, 20, 0.1), rgba(253, 126, 20, 0.05)) !important;
+}
+.paper-links a.btn.btn--warning:hover { 
+  background: linear-gradient(145deg, rgba(253, 126, 20, 0.2), rgba(253, 126, 20, 0.1)) !important;
+  box-shadow: 0 8px 25px rgba(253, 126, 20, 0.3) !important;
+  color: #fd7e14 !important;
 }
 
 .method-figure {
