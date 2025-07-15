@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
 title: " "
 permalink: /papers/active-probing-multimodal-predictions/
 author_profile: false
+classes: wide
 ---
 
 
