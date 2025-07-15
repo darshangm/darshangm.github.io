@@ -6,8 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-
-
 <div class="paper-header">
   <h1 class="paper-title">Active Probing with Multimodal Predictions for Motion Planning</h1>
   
@@ -80,7 +78,7 @@ Our active probing mechanism:
 - Includes risk-aware thresholding to prevent dangerous probing actions
 
 ## Demonstration {#videos}
-<iframe width="400" height="200" 
+<iframe width="560" height="315" 
         src="https://www.youtube.com/embed/GBGBFXxoEmM" 
         title="Active probing based motion planning" 
         frameborder="0" 
@@ -108,6 +106,42 @@ Code will be made available [here](https://www.github.com/darshangm/)
 This work was conducted during Darshan Gadginmath's internship at Honda Research Institute, USA. We thank the Honda Research Institute team for their support and resources.
 
 <style>
+/* Import Fira Sans font */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+/* Apply Fira Sans globally */
+body, .paper-header, .paper-title, h1, h2, h3, h4, h5, h6, p, div, span {
+  font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+/* Make page wider */
+.page {
+  max-width: 1400px !important;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.page__content {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Responsive width adjustments */
+@media (min-width: 1200px) {
+  .page {
+    max-width: 1600px !important;
+    padding: 0 3rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  .page {
+    max-width: 1800px !important;
+    padding: 0 4rem;
+  }
+}
+
 .paper-header {
   text-align: center;
   margin-bottom: 2em;
@@ -117,15 +151,17 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 
 .paper-title {
   font-size: 2.5em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 1em;
   color: #2c3e50;
+  line-height: 1.2;
 }
 
 .authors {
   font-size: 1.2em;
   margin-bottom: 1em;
   line-height: 1.6;
+  font-weight: 400;
 }
 
 .author {
@@ -136,12 +172,14 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   font-size: 1em;
   color: #666;
   margin-bottom: 1em;
+  font-weight: 300;
 }
 
 .conference {
   font-size: 1.1em;
   color: #e74c3c;
   margin-bottom: 2em;
+  font-weight: 500;
 }
 
 .paper-links {
@@ -149,20 +187,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   margin: 2em 0;
 }
 
-.paper-links .btn {
-  margin: 0.5em;
-  padding: 0.7em 1.5em;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
-  display: inline-block;
-}
-
-.paper-links {
-  text-align: center;
-  margin: 2em 0;
-}
-
+/* Modern button styles */
 .paper-links .btn {
   margin: 0.5em;
   padding: 0.8em 1.6em;
@@ -182,6 +207,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   transform: translateY(-2px);
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
   background: rgba(255, 255, 255, 0.2);
+  text-decoration: none;
 }
 
 .btn--primary { 
@@ -192,6 +218,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 .btn--primary:hover { 
   background: linear-gradient(145deg, rgba(52, 152, 219, 0.2), rgba(52, 152, 219, 0.1));
   box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3);
+  color: #3498db;
 }
 
 .btn--info { 
@@ -202,6 +229,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 .btn--info:hover { 
   background: linear-gradient(145deg, rgba(23, 162, 184, 0.2), rgba(23, 162, 184, 0.1));
   box-shadow: 0 8px 25px rgba(23, 162, 184, 0.3);
+  color: #17a2b8;
 }
 
 .btn--success { 
@@ -212,6 +240,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 .btn--success:hover { 
   background: linear-gradient(145deg, rgba(40, 167, 69, 0.2), rgba(40, 167, 69, 0.1));
   box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3);
+  color: #28a745;
 }
 
 .btn--warning { 
@@ -222,16 +251,8 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 .btn--warning:hover { 
   background: linear-gradient(145deg, rgba(253, 126, 20, 0.2), rgba(253, 126, 20, 0.1));
   box-shadow: 0 8px 25px rgba(253, 126, 20, 0.3);
+  color: #fd7e14;
 }
-
-
-
-.btn--primary { background-color: #3498db; color: white; }
-.btn--info { background-color: #17a2b8; color: white; }
-.btn--success { background-color: #28a745; color: white; }
-.btn--warning { background-color: #ffc107; color: black; }
-
-
 
 .method-figure {
   text-align: center;
@@ -242,6 +263,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   font-style: italic;
   color: #666;
   margin-top: 0.5em;
+  font-weight: 300;
 }
 
 .results-grid {
@@ -272,7 +294,7 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 
 .result-item th {
   background-color: #e9ecef;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .video-grid {
@@ -291,8 +313,10 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
 .video-item h4 {
   margin-top: 0;
   color: #2c3e50;
+  font-weight: 600;
 }
 
+/* Responsive styles */
 @media (max-width: 768px) {
   .paper-title {
     font-size: 1.8em;
@@ -309,6 +333,10 @@ This work was conducted during Darshan Gadginmath's internship at Honda Research
   
   .video-grid {
     grid-template-columns: 1fr;
+  }
+  
+  .page {
+    padding: 0 1rem !important;
   }
 }
 </style>
