@@ -6,16 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQD2LSC486"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KQD2LSC486');
-</script>
-
 
 I am a fifth-year Ph.D. candidate at UC Riverside in the Mechanical Engineering department. My advisor is [Prof. Fabio Pasqualetti](https://www.fabiopas.it/). Broadly, my research is focused on analyzing the behavior of robotic systems and embodied AI agents driven by black-boxes. I use probabilistic tools in control theory and ML in my research. 
 
