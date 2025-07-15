@@ -30,7 +30,7 @@ author_profile: false
 </div>
 
 <div class="paper-links">
-  <a href="https://www.arxiv.org/darshangm" class="btn btn--info">Paper (arxiv)</a>
+  <a href="https://arxiv.org/pdf/2507.09822" class="btn btn--info">Paper (arxiv)</a>
   <a href="https://www.github.com/darshangm" class="btn btn--success">Code</a>
   <a href="https://www.youtube.com/watch?v=GBGBFXxoEmM" class="btn btn--warning">Video</a>
 </div>
@@ -66,7 +66,7 @@ We define a utility-based reward that encourages the ego agent to follow a refer
 ### 2. Safety with Risk Assessment  
 We develop a probabilistic risk metric using the 2-Wasserstein distance between the ego agent's planned trajectory distribution and predicted trajectories of other agents. This metric:
 - Directly incorporates prediction uncertainties
-- Provides closed-form computation for Gaussian mixtures  
+- Provides closed-form risk computation for multimodal distributions 
 - Captures distributional proximity weighted by prediction confidence
 
 ### 3. Active Probing for Behavior Inference
@@ -87,7 +87,7 @@ Our active probing mechanism:
 
 ## Code
 
-Code is available [here](https://www.github.com/darshangm/)
+Code will be made available [here](https://www.github.com/darshangm/)
 
 ## Citation
 
