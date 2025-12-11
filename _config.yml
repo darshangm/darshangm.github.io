@@ -142,7 +142,7 @@ social:
 #     tracking_id          :
 
 analytics:
-  provider: "google-analytics-4"
+  provider: "custom"
   google:
     tracking_id: "G-QQSYC9ETXY"
 
