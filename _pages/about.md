@@ -84,9 +84,9 @@ redirect_from:
 }
 </style>
 
-I am starting as a Research Scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA, working in the Control for Autonomy team. I recently completed my PhD in Mechanical Engineering at UC Riverside, advised by [Prof. Fabio Pasqualetti](https://www.fabiopas.it/).
+I am starting as a Research Scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA. I recently completed my PhD at UC Riverside, advised by [Prof. Fabio Pasqualetti](https://www.fabiopas.it/).
 
-My research develops algorithms for safe autonomy. I use tools from generative AI and formal methods. My expertise is in diffusion models, operator theory, and nonlinear control. Lately, my focus is on developing techniques to make robots adapt reliably in uncertain environments.
+My research develops tools for mechanistic safety for autonomous systems and generative AI. I primarily use techniques from nonlinear control theory and operator theory. Lately, my focus is on developing techniques to make robots adapt reliably in uncertain environments.
 
 Previously, I was a Research Intern at the Honda Research Institute, and a Research Assistant with [Dr. Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/) at the Indian Institute of Science. I received my B.E. in Electrical and Electronics Engineering from RV College of Engineering, Bengaluru.
 
