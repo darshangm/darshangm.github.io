@@ -90,8 +90,22 @@ body {
 }
 
 .greedy-nav .visible-links a:before {
-  background: #2ab95c;
+  background: #5DCAA5;
 }
+.greedy-nav a,
+.greedy-nav a:visited,
+.masthead__menu-item a,
+.masthead__menu-item--lg a,
+.visible-links a,
+.visible-links a:visited {
+  color: #ffffff !important;
+}
+
+.greedy-nav a:hover,
+.visible-links a:hover {
+  color: #5DCAA5 !important;
+}
+
 
 // ── sidebar — narrower, pushed left ──
 .sidebar {
