@@ -19,11 +19,13 @@ Last compiled {{ site.time | date: '%B, %Y' }}
 
 Education
 ======
-* Ph.D in Mechanical Engineering, 2020-2025 (expected)
+* Ph.D in Mechanical Engineering, 2020-2026
 * B.E. in Electrical and Electronics Engineering, RV College of Engineering, 2014-2018
 
 Work experience
 ======
+* May 2026: Mitsubishi Electric Research Labs, Research Scientist
+
 * Fall 2024 (September 2024 - December 2024): Honda Research Institute - US, Research Intern
   * Using multimodal predictors for motion planning
   * Active probing human drivers for intention inference
