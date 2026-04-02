@@ -47,7 +47,7 @@
    
    /* Sidebar properties */
    $sidebar-screen-min-width   : 1024px;
-   $sidebar-link-max-width     : 250px;
+   $sidebar-link-max-width     : 180px;
    
    
    
@@ -105,8 +105,8 @@
    $link-color                 : $info-color;
    $link-color-hover           : mix(#000, $link-color, 25%);
    $link-color-visited         : mix(#fff, $link-color, 25%);
-   $masthead-link-color        : #aaa;
-   $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+   $masthead-link-color        : #e0e0e0;
+   $masthead-link-color-hover  : #ffffff;
    
    
    /*
