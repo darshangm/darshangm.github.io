@@ -207,7 +207,7 @@ author_profile: true
 <div class="research-page">
 
 <p style="font-size:0.85rem; color:#888; margin-bottom:2rem; line-height:1.7;">
-I develop algorithms for safe autonomy — bridging control theory, machine learning, and robotics. My dissertation unified three threads: steering generative models for safe planning, data-driven feedback linearization via Koopman operators, and active probing for intent inference under uncertainty.
+I develop algorithms for safe autonomy — bridging control theory, machine learning, and robotics. My research unifies three tools: generative models for safe planning, data-driven control of nonlinear systems, and active inference under uncertainty.
 </p>
 
 <div class="rp-section-label">Research threads</div>
@@ -217,7 +217,6 @@ I develop algorithms for safe autonomy — bridging control theory, machine lear
   <div class="rp-bar" style="background:#5DCAA5;"></div>
   <div class="rp-thread-content">
     <p class="rp-thread-title">Safe generative sampling</p>
-    <p class="rp-thread-sub">2023 – present &nbsp;·&nbsp; Dissertation chapter I</p>
     <p class="rp-desc">
       Diffusion models generate impressive plans and trajectories but offer no safety guarantees out of the box. I develop <em>constricting control barrier functions</em> that steer the reverse diffusion process to stay within safe regions — provably, without resampling or post-processing, and without modifying the underlying model.
     </p>
@@ -258,7 +257,6 @@ I develop algorithms for safe autonomy — bridging control theory, machine lear
   <div class="rp-bar" style="background:#AFA9EC;"></div>
   <div class="rp-thread-content">
     <p class="rp-thread-title">Data-driven control via Koopman operators</p>
-    <p class="rp-thread-sub">2022 – present &nbsp;·&nbsp; Dissertation chapter II</p>
     <p class="rp-desc">
       Feedback linearization is a powerful control technique but requires an exact analytic model. I use the Koopman operator and its generator to learn the linearizing transformation directly from data — making interpretable, theoretically grounded controllers available for systems where no model exists.
     </p>
@@ -289,7 +287,7 @@ I develop algorithms for safe autonomy — bridging control theory, machine lear
   <div class="rp-bar" style="background:#EF9F27;"></div>
   <div class="rp-thread-content">
     <p class="rp-thread-title">Active probing for intent inference</p>
-    <p class="rp-thread-sub">2024 &nbsp;·&nbsp; Honda Research Institute internship &nbsp;·&nbsp; Dissertation chapter III</p>
+    <p class="rp-thread-sub">2024 &nbsp;·&nbsp; Honda Research Institute internship &nbsp;·&nbsp;</p>
     <p class="rp-desc">
       Autonomous vehicles can't safely plan without knowing what other drivers intend to do. I developed an active probing framework that strategically selects actions to reduce uncertainty about other agents' behavior, while simultaneously planning safely under multimodal predictions.
     </p>
