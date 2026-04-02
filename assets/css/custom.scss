@@ -1,0 +1,211 @@
+---
+# this file intentionally left with front matter so Jekyll processes it
+---
+
+/* =============================================================
+   Dark theme overrides for darshangm.github.io
+   Drop this file at: assets/css/custom.scss
+   Then add to _includes/head/custom.html:
+     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+   ============================================================= */
+
+/* ── page background & text ── */
+body {
+  background-color: #141414;
+  color: #aaa;
+}
+
+/* ── masthead / nav ── */
+.masthead {
+  background: #141414;
+  border-bottom: 0.5px solid #2a2a2a;
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: #777;
+}
+
+.masthead__menu-item--lg a {
+  color: #f0f0f0;
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: #e0e0e0;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #5DCAA5;
+}
+
+/* ── sidebar / author profile ── */
+.sidebar {
+  background: #141414;
+}
+
+.author__name {
+  color: #f0f0f0;
+}
+
+.author__bio,
+.author__urls li,
+.author__urls a {
+  color: #777;
+}
+
+.author__urls a:hover {
+  color: #5DCAA5;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 2px solid #2a2a2a;
+}
+
+/* ── main content area ── */
+.page__content {
+  color: #aaa;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: #f0f0f0;
+}
+
+.page__content h2 {
+  border-bottom-color: #2a2a2a;
+}
+
+.page__content a {
+  color: #5DCAA5;
+}
+
+.page__content a:hover {
+  color: #9FE1CB;
+}
+
+p, li {
+  color: #aaa;
+}
+
+/* ── archive / list pages ── */
+.archive__item-title a {
+  color: #ddd;
+}
+
+.archive__item-excerpt {
+  color: #777;
+}
+
+/* ── footer ── */
+.page__footer {
+  background: #0e0e0e;
+  color: #555;
+  border-top: 0.5px solid #222;
+}
+
+.page__footer a {
+  color: #666;
+}
+
+.page__footer-follow .social-icons a:hover {
+  color: #5DCAA5;
+}
+
+/* ── links globally ── */
+a {
+  color: #5DCAA5;
+}
+
+a:hover {
+  color: #9FE1CB;
+  text-decoration: underline;
+}
+
+/* ── horizontal rules ── */
+hr {
+  border-color: #2a2a2a;
+}
+
+/* ── buttons ── */
+.btn--inverse {
+  background: #1c1c1c;
+  color: #aaa;
+  border-color: #333;
+}
+
+.btn--inverse:hover {
+  background: #252525;
+  color: #ddd;
+}
+
+/* ── code blocks ── */
+pre, code {
+  background: #1c1c1c;
+  color: #ccc;
+  border-color: #2a2a2a;
+}
+
+/* ── tables ── */
+table {
+  background: #1c1c1c;
+  color: #aaa;
+}
+
+th {
+  background: #222;
+  color: #ddd;
+}
+
+tr:nth-child(even) {
+  background: #1a1a1a;
+}
+
+/* ── notices ── */
+.notice {
+  background: #1c1c1c;
+  border-left-color: #5DCAA5;
+  color: #aaa;
+}
+
+/* ── page title ── */
+.page__title {
+  color: #f0f0f0;
+}
+
+/* ── toc ── */
+.toc {
+  background: #1c1c1c;
+  border-color: #2a2a2a;
+}
+
+.toc__menu a {
+  color: #777;
+}
+
+.toc__menu a:hover {
+  color: #5DCAA5;
+}
+
+/* ── nav follow button (mobile) ── */
+.greedy-nav__toggle {
+  color: #aaa;
+}
+
+/* ── hidden links dropdown ── */
+.hidden-links {
+  background: #1c1c1c;
+  border-color: #2a2a2a;
+}
+
+.hidden-links a {
+  color: #aaa;
+}
+
+.hidden-links a:hover {
+  background: #222;
+  color: #5DCAA5;
+}
