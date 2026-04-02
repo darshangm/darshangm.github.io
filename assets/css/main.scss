@@ -65,18 +65,23 @@ body {
   color: #aaa;
 }
 
+// ── masthead / nav ──
 .masthead {
-  background: #141414;
-  border-bottom: 0.5px solid #2a2a2a;
+  background: #141414 !important;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.masthead__inner-wrap {
+  background: #141414 !important;
 }
 
 .masthead__menu-item a,
 .greedy-nav a {
-  color: #777;
+  color: #888;
 }
 
 .masthead__menu-item--lg a {
-  color: #f0f0f0;
+  color: #f0f0f0 !important;
   font-weight: 500;
 }
 
@@ -88,8 +93,17 @@ body {
   background: #5DCAA5;
 }
 
+// ── sidebar — narrower, pushed left ──
 .sidebar {
   background: #141414;
+  // reduce max width so it doesn't crowd the main content
+  max-width: 200px !important;
+}
+
+@media screen and (min-width: 64em) {
+  .sidebar.sticky {
+    width: 200px !important;
+  }
 }
 
 .author__name {
@@ -109,6 +123,29 @@ body {
 .author__avatar img {
   border-radius: 50%;
   border: 2px solid #2a2a2a;
+}
+
+// ── footer ──
+.page__footer {
+  background: #0e0e0e !important;
+  color: #444 !important;
+  border-top: 1px solid #1f1f1f;
+}
+
+.page__footer footer {
+  background: #0e0e0e !important;
+}
+
+.page__footer a {
+  color: #555 !important;
+}
+
+.page__footer a:hover {
+  color: #5DCAA5 !important;
+}
+
+.page__footer-copyright {
+  color: #444 !important;
 }
 
 .page__content {
@@ -146,19 +183,7 @@ p, li {
   color: #777;
 }
 
-.page__footer {
-  background: #0e0e0e;
-  color: #555;
-  border-top: 0.5px solid #222;
-}
 
-.page__footer a {
-  color: #666;
-}
-
-.page__footer-follow .social-icons a:hover {
-  color: #5DCAA5;
-}
 
 a {
   color: #5DCAA5;
