@@ -84,7 +84,7 @@ redirect_from:
 }
 </style>
 
-I am starting as a Research Scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA. I recently completed my PhD at UC Riverside, advised by [Prof. Fabio Pasqualetti](https://www.fabiopas.it/).
+I am a Research Scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA. I recently completed my PhD at UC Riverside, advised by [Prof. Fabio Pasqualetti](https://www.fabiopas.it/).
 
 My research develops tools for mechanistic safety for autonomous systems and generative AI. I primarily use techniques from nonlinear control theory and operator theory. Lately, my focus is on developing techniques to make robots adapt reliably in uncertain environments.
 
